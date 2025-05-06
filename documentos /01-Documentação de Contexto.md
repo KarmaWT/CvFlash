@@ -22,4 +22,30 @@ Objetivos Específicos:
 
 ## público-alvo
 
+O público-alvo dos geradores de currículos é diversificado, abrangendo uma ampla gama de perfis profissionais em diferentes etapas de suas carreiras. Este aplicativo da web é direcionado a profissionais que buscam oportunidades de emprego, independentemente de sua faixa etária, gênero ou localização geográfica. Seus potenciais usuários podem ser homens ou mulheres, com idades variando entre 18 e 50 anos, residindo tanto em áreas urbanas quanto rurais.
+
+Essa ferramenta é útil para indivíduos que desejam:
+
+• Destacar habilidades e experiências relevantes nos currículos.
+
+• Acompanhar a evolução das candidaturas para diferentes vagas.
+
+• Ajustar e melhorar os currículos para melhorar a acessibilidade dos ATSs.
+
+• Personalizar o currículo de acordo com diferentes contextos profissionais.
+
+• Simplificar o processo de criação de currículos.
+
+• Adaptar o currículo para profissionais em processo de recolocação ou mudança de carreira.
+
+• Buscar melhores oportunidades de trabalho.
+
+• Criar currículos que se destaquem em meio a uma ampla gama de perfis profissionais.
+
+Para aqueles em processo de recolocação ou mudança de carreira, bem como aqueles em busca de melhores oportunidades de trabalho, uma plataforma oferece ferramentas para:
+
+• Adaptar o currículo para suas necessidades específicas.
+
+• Buscar melhores oportunidades de trabalho.
+
 ## conclusão
