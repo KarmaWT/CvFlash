@@ -1,5 +1,20 @@
 # Introdução
-?????
+Para iniciar, é crucial destacar a transformação dos recursos humanos impulsionados pela tecnologia nos ambientes de trabalho atuais. Com o uso das tecnologias de informação como ferramentas no processo de atração e retenção de profissionais para as organizações, o setor de recursos humanos está passando por uma remodelação significativa e acelerada.
+
+De forma geral, o setor de recursos humanos em uma empresa constitui-se em duas partes: recrutamento, formado por todas as ações de divulgação, e seleção, formado pelas ações de filtragem, classificação e futura escolha.
+
+A filtragem automatizada por palavras-chave, embora eficiente em agilizar o processo de seleção, pode criar distorções importantes na escolha dos currículos dos candidatos. Isso acontece porque:
+
+Eliminação de candidatos qualificados: Sistemas automatizados podem descartar currículos que não contenham as palavras-chave exatas, mesmo que o candidato possua as competências desejadas com outras terminologias ou experiências equivalentes.
+
+Favorecimento de palavras e não de competências reais: Candidatos que conhecem o funcionamento dos sistemas podem “otimizar” seus currículos com palavras-chave estratégicas, ainda que não dominem de fato aquelas habilidades — o que leva a uma seleção enviesada.
+
+Limitação da diversidade de perfis: A padronização das palavras-chave tende a privilegiar perfis muito semelhantes entre si, reduzindo a diversidade de experiências, formação e até de perspectivas culturais, o que pode ser prejudicial à inovação da empresa.
+
+Desvalorização do contexto: Os algoritmos, muitas vezes, não interpretam o contexto de uma experiência ou habilidade descrita. Por exemplo, um candidato pode ter liderado projetos relevantes, mas não usou o termo “gestão de projetos”, sendo, portanto, excluído.
+
+Por isso, embora a tecnologia seja uma aliada no RH moderno, é necessário um equilíbrio entre automação e análise humana para garantir justiça e eficiência no recrutamento.
+
 
 ## Problema
 A evolução da tecnologia ao longo da última década impactou significativamente diversas áreas, inclusive o setor de recursos humanos, que, por sua vez, tem se beneficiado com o uso de sistemas de rastreamento de candidatos para facilitar processos de contratação mais ágeis e precisos.
