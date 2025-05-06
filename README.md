@@ -15,5 +15,3 @@ Um site gerador de currículos é uma ferramenta online que ajuda a criar currí
 ## Orientador
 
 Prof. PhD. Kaio Alexandre da Silva
-
-# Documentação
