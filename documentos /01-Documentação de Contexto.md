@@ -1,6 +1,19 @@
 # Introdução
 
 ## Problema
+A evolução da tecnologia ao longo da última década impactou significativamente diversas áreas, inclusive o setor de recursos humanos, que, por sua vez, tem se beneficiado com o uso de sistemas de rastreamento de candidatos para facilitar processos de contratação mais ágeis e precisos.
+
+
+Segundo o IBGE (Instituto Brasileiro de Geografia e Estatística) - A informação apresentada é consistente com os dados do IBGE. A taxa de desemprego no Brasil, no quarto de 2025, foi de 7,4%, com 8,1 milhões de pessoas desempregadas. Destas, 3,5 milhões desistiram de procurar emprego, o que significa quenão mais contabilizadas como desempregadas, mas como inativas. 
+
+Detalhes adicionais:
+
+A taxa de desemprego de 7,4% representa um aumento em relação ao trimestre anterior, mas uma queda em comparação com o mesmo período de 2024.
+A população acelerada no Brasil também sofreu uma queda no trimestre, mas aumentou em comparação com o ano anterior.
+Uma pesquisa do IBGE indica que o aumento da taxa de desemprego no trimestre é um comportamento sazonal, comum no início do ano, devido ao término de contratos temporários.
+No entanto, a taxa de desemprego ainda é considerada baixa, diminuindo um mercado de trabalho aquecido. 
+
+Pensando no cenário citado, a criação de um site que facilita a acessibilidade e a leitura de currículos por empresas que utilizam ATS, gera algo realmente útil na atualidade considerando os números analisados, onde aumentaria a chance de pessoas saírem do desemprego assim como as taxas de isenção de currículos por ATS.
 
 ## Objetivos
 
@@ -30,7 +43,7 @@ Essa ferramenta é útil para indivíduos que desejam:
 
 • Acompanhar a evolução das candidaturas para diferentes vagas.
 
-• Ajustar e melhorar os currículos para melhorar a acessibilidade dos ATSs.
+• Ajustar e melhorar os currículos para melhorar a acessibilidade dos ATS.
 
 • Personalizar o currículo de acordo com diferentes contextos profissionais.
 
