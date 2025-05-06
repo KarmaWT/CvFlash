@@ -1,1 +1,35 @@
 
+# Projeto de Interface
+
+## User Flow
+
+Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo o fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+
+## Protótipo de alta fidelidade
+
+O protótipo de alta fidelidade possui uma interface mais avançada e próxima do estágio completo, com muitos aspectos visuais e funcionais que aumentam a interatividade e o fluxo entre as páginas. Ele foi desenvolvido com a ajuda do software Figma para fornecer uma representação precisa das características finais do produto. 
+
+### Tela - Home
+Nessa tela encontramos o banner inicial, botões que levam para as telas de criação de currículo, instruções de como fazer um currículo e controle de candidaturas. 
+
+
+### Tela - Login e SignUp
+Duas telas distintas para criação de conta e login.
+
+
+### Tela - Aprenda
+Nesta tela, o usuário encontrará instruções de como fazer um currículo.
+
+
+### Tela - Organize
+Nesta tela, o usuário pode fazer um rastreamento de todas as candidaturas que realizou a diferentes vagas.
+
+
+### Tela - Crie seu currículo
+
+
+### Tela - Erro
+Em caso de erro, o usuário será levado a esta página.
+
+
+
