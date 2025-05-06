@@ -1,4 +1,5 @@
 # Introdução
+?????
 
 ## Problema
 A evolução da tecnologia ao longo da última década impactou significativamente diversas áreas, inclusive o setor de recursos humanos, que, por sua vez, tem se beneficiado com o uso de sistemas de rastreamento de candidatos para facilitar processos de contratação mais ágeis e precisos.
@@ -32,6 +33,7 @@ Objetivos Específicos:
 • Garantir a acessibilidade do sistema em diversas plataformas, como telefones, tablets e computadores, permitindo que os usuários o acessem de forma conveniente, independentemente de sua localização ou dos recursos disponíveis.
 
 ## justifique
+????
 
 ## público-alvo
 
@@ -62,3 +64,4 @@ Para aqueles em processo de recolocação ou mudança de carreira, bem como aque
 • Buscar melhores oportunidades de trabalho.
 
 ## conclusão
+????
