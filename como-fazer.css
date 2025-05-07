@@ -1,0 +1,128 @@
+.background {
+    display: flex;
+    margin: 4% 2%;
+    border-radius: 50px;
+    padding: 15px;
+    height: 90%;
+    background: rgba(182, 182, 182, 0.15);
+    font-family: 'Encode Sans';
+}
+
+.menu-lateral {
+    margin: 3% 2% 3% 3%;
+    background-color: white;
+    border-radius: 35px;
+    width: 20%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    position: sticky;
+    top: 20%;
+    height: 10%;
+
+}
+
+.menu-lateral div{
+    padding: 5px;
+    border-radius: 20px;
+    margin: 2px 0px;
+    position: relative;
+}
+
+.menu-lateral div:hover:not(.highlight) {
+    background-color: #23578449;
+    transition: background 400ms ease;
+
+}
+
+.menu-lateral a {
+    text-decoration: none;
+    color: #374375;
+    
+}
+
+.paraClicar {
+    position:absolute; 
+    width:100%;
+    height:100%;
+    top:0;
+    left: 0;
+    z-index: 1;
+  
+}
+
+dd {
+    text-align: center;
+    font-size: 1.3rem;
+    color: #374375;
+    margin-bottom: 2%;
+
+}
+
+
+dt {
+    text-align: center;
+    color: #235784;
+    font-size: 1rem;
+}
+
+
+.tutorial {
+    margin: 3% 3% 3% 2%;
+    background-color: white;
+    border-radius: 50px;
+    width: 69%;
+    background-position-x: right;
+    padding-bottom: 3%;
+}
+
+
+.tutorial h1 {
+    margin: 5% 5% 2%;
+    font-size: 2.5rem;
+    color: #374375;
+    text-align: center;
+}
+
+.tutorial ul {
+    margin-bottom: 5cm;
+
+}
+
+.tutorial ul li {
+    margin-bottom: 6mm;
+
+}
+
+.tutorial p {
+    margin: 5% 9% 5%;
+    font-size: 1rem;
+    text-align: center;
+    color: #235784;
+
+}
+
+.tutorial ol, .tutorial li {
+    margin: 1% 9%;
+    font-size: 1rem;
+    text-align: justify;
+    color: #235784;
+
+}
+
+.highlight {
+    background: #235784;
+    box-shadow: 2px 2px 2px darkgray;
+    transition: background 400ms ease;
+}
+
+.highlight dt {
+    color: white;
+}
+
+.highlight dd a {
+    color: #F0F0F0;
+}
+
+.highlight dd {
+    color: white
+}
