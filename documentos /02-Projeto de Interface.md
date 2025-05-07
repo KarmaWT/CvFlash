@@ -10,7 +10,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 O protótipo de alta fidelidade possui uma interface mais avançada e próxima do estágio completo, com muitos aspectos visuais e funcionais que aumentam a interatividade e o fluxo entre as páginas. Ele foi desenvolvido com a ajuda do software Figma para fornecer uma representação precisa das características finais do produto. 
 
-### Tela - Home
+### Tela - iniciar
 Nessa tela encontramos o banner inicial, botões que levam para as telas de criação de currículo, instruções de como fazer um currículo e controle de candidaturas. 
 
 
