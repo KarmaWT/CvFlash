@@ -31,4 +31,21 @@ Nesse conjunto de telas, o usuário podera crir um currículo, escolher um templ
 ### Tela - Erro
 Em caso de erro, o usuário será levado a esta página.
 
+### Tela - Pesquisa de Vagas
+Ao entrar na tela de pesquisa, a mesma já apresenta as vagas mais recentes criadas, mas além disso ela possui uma barra de pesquisa onde o candidato poderá pesquisar por vagas específicas que ele deseja.
+
+### Tela - Detalhes da vaga
+A tela de detalhes da vaga apresenta as informações completas sobre a vaga que o candidato selecionado e possui um botão onde o mesmo pode se candidatar pra tal vaga através dele.
+
+### Tela - Criação de vaga
+A tela de criação de vaga apresenta uma série de entradas das quais o usuário recrutador deverá preencher corretamente para que seja criado uma nova vaga de emprego.
+
+### Tela - Edição ou exclusão da vaga criada
+A tela de detalhes permite que o recrutador veja os detalhes da vaga que criou e apresenta botões que possibilitam a edição ou a exclusão da vaga em questão
+
+### Tela - Visualização das vagas criadas
+A tela de visualização de vagas permite que o recrutador encontre todas as vagas que criou e ao selecionar alguma é redirecionado à página de detalhes da mesma.
+
+
+
 
