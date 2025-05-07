@@ -46,6 +46,10 @@ A tela de detalhes permite que o recrutador veja os detalhes da vaga que criou e
 ### Tela - Visualização das vagas criadas
 A tela de visualização de vagas permite que o recrutador encontre todas as vagas que criou e ao selecionar alguma é redirecionado à página de detalhes da mesma.
 
+### Tela – Vagas candidatas (Usuário padrão)
+A tela permite ao usuário ver as vagas em que ele se candidatou.
+
+
 
 
 
