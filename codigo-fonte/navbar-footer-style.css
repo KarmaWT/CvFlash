@@ -1,0 +1,80 @@
+:root {
+    --cor-de-fundo-nav: rgba(182, 182, 182, 0.15);
+    --cor-texto: #374375;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   height: 100%;
+}
+
+nav {
+    height: 5vh;
+    background-color: var(--cor-de-fundo-nav);
+    display: flex !important;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.logo {
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+#menu {
+    margin: 10px;
+}
+
+#menu ul, #btnLogout {
+    list-style: none;
+}
+
+#menu li, #btnLogout {
+    display: inline;
+}
+
+#menu li a, #btnLogout {
+    text-decoration: none;
+    color: var(--cor-texto);
+    font-weight: 700;
+    font-family: 'Encode Sans';
+    padding: 5px;
+    border: none;
+}
+
+footer {
+    display: flex !important;
+    background-color: var(--cor-de-fundo-nav);
+    justify-content: space-between;
+    font-family: 'Encode Sans';
+    color: var(--cor-texto);
+    font-weight: 400;
+    align-items: center;
+    font-size: 8pt;
+}
+
+footer .logo {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    height: 0;
+
+}
+
+footer .logo-footer {
+    width: 200px;
+}
+
+footer .logo .marca {
+    padding: 10px;
+}
+
+footer .direitos {
+    padding: 10px;
+}
