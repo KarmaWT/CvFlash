@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c3f0692b-3d19-47ab-8f31-9ea788112865)## Nosso propósito
+## Nosso propósito
 
 Nosso propósito é ajudar as pessoas a conseguirem o trabalho dos sonhos, com um currículo online, personalizado e diferenciado. Somos uma empresa jovem e inovadora, e acreditamos que cada pessoa tem o potencial de criar a carreira que quiser.  
 
