@@ -16,13 +16,6 @@
 
 # 3. Instruções sobre o fornecimento de dados pessoais 
 
-3.1 O acesso à plataforma se dá por meio de login e senha cadastrados pelo usuário. É responsabilidade do usuário guardar esses dados e não fornecê-los a terceiros. 
-
-3.2 O usuário informa seus dados pessoais voluntariamente e pode decidir livremente quais dados deseja cadastrar. O currículo gerado pela plataforma conterá apenas as informações fornecidas pelo usuário. 
-
-3.3 O usuário tem o direito de alterar as informações inseridas durante o período de contratação do serviço. Após o período de vigência do plano contratado os dados não poderão mais ser alterados. 
-
-3.4 A plataforma Currículo Rápido não se responsabiliza pela veracidade das informações cadastradas pelo usuário. Informações de perfil que não correspondam à realidade são de responsabilidade exclusiva do usuário.  
 
  
 
