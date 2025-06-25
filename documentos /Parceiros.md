@@ -1,4 +1,4 @@
-* Quem acredita na geração de impacto social
+## Quem acredita na geração de impacto social
 
 Somos uma startup de impacto social e buscamos uma sociedade mais inclusiva, onde todas as pessoas tenham acesso igualitário a oportunidades de emprego e desenvolvimento pessoal. Por meio de parcerias com empresas, podemos oferecer os nossos serviços aos usuários de forma totalmente gratuita.  
 
