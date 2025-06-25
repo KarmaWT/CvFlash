@@ -8,7 +8,7 @@ Buscamos gerar impacto na vida das pessoas, auxiliando na preparação e no aces
 
 Ao longo do tempo, esperamos ver um aumento significativo na inclusão produtiva e na melhoria econômica das pessoas que utilizam os serviços da Currículo Pro. A nossa visão de impacto, de ter uma sociedade mais inclusiva e igualitária, é alcançada à medida que mais pessoas têm acesso a oportunidades de emprego, desenvolvimento de carreira e aumento na geração de renda.
 
-Veja 5 motivos para apoiar a Currículo Rapidão:
+Veja 5 motivos para apoiar a Currículo Rápido:
 
 1 –  Ajude as pessoas na preparação e na busca por melhores oportunidades de emprego, desenvolvimento da carreira e aumento na geração de renda;
 
@@ -24,9 +24,13 @@ Contamos com o seu apoio para construir um futuro com novas oportunidades para q
 
 
 # Sebrae RO
-## Programa Alavanca Digital
-Ao longo do ano de 2025, nossa empresa participou do Programa Alavanca Digital, do Sebrae RO. 
+Ao longo do ano de 2025, promovido pelo Sebrae RO.
+Essa parceria foi fundamental para que pudéssemos repensar nosso modelo de negócios e investir no desenvolvimento de uma plataforma mobile mais intuitiva, moderna e acessível para nossos usuários.
 
-Por meio dessa parceria, conseguimos repensar o nosso modelo de negócios e investir em uma plataforma mobile, muito mais intuitiva e acessível para nossos usuários.
+O Sebrae, como sempre, demonstrou ser um grande parceiro dos pequenos negócios, contribuindo diretamente para a inovação e crescimento da Currículo Rápido. ![image](https://github.com/user-attachments/assets/74234f46-0b4b-47ce-a090-c0a82880ea6c)
 
-O Sebrae é parceiro do pequenos negócios e tem uma importância significativa para a Currículo Rapidão.
+
+Além disso, destacamos com orgulho que também tivemos a oportunidade de participar de ações promovidas pelo IFRO Campus Calama, fortalecendo ainda mais nossa trajetória de aprendizado, troca de experiências e desenvolvimento local.
+
+* Currículo Rápido + Sebrae RO
+* Parceria com IFRO Campus Calama
