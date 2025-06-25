@@ -21,3 +21,12 @@ Veja 5 motivos para apoiar a Currículo Rapidão:
 5 – Apoie ações de sustentabilidade (ESG), focadas no pilar Social e alinhadas aos objetivos de desenvolvimento sustentáveis da ONU (5, 8 e 10).
 
 Contamos com o seu apoio para construir um futuro com novas oportunidades para quem está em busca de trabalho e desenvolvimento na carreira. Um futuro onde o trabalho representa novas possibilidades de melhoria da qualidade de vida e aumento de renda. 
+
+
+# Sebrae RO
+## Programa Alavanca Digital
+Ao longo do ano de 2025, nossa empresa participou do Programa Alavanca Digital, do Sebrae RO. 
+
+Por meio dessa parceria, conseguimos repensar o nosso modelo de negócios e investir em uma plataforma mobile, muito mais intuitiva e acessível para nossos usuários.
+
+O Sebrae é parceiro do pequenos negócios e tem uma importância significativa para a Currículo Rapidão.
