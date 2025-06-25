@@ -22,7 +22,7 @@
 
 3.3 O usuário tem o direito de alterar as informações inseridas durante o período de contratação do serviço. Após o período de vigência do plano contratado os dados não poderão mais ser alterados. 
 
-3.4 A plataforma Currículo Pro não se responsabiliza pela veracidade das informações cadastradas pelo usuário. Informações de perfil que não correspondam à realidade são de responsabilidade exclusiva do usuário.  
+3.4 A plataforma Currículo Rápido não se responsabiliza pela veracidade das informações cadastradas pelo usuário. Informações de perfil que não correspondam à realidade são de responsabilidade exclusiva do usuário.  
 
  
 
@@ -56,7 +56,7 @@
 
 # 6. Responsabilidades da plataforma Currículo Rápido
 
-6.1. A plataforma Currículo Rápido desempenhará seus melhores esforços para manter o site acessível vinte e quatro horas por dia de forma segura e isenta de erros.  O usuário reconhece, no entanto, que a plataforma Currículo Pro não será responsável pela impossibilidade de acesso ao site devido à falha de comunicação. 
+6.1. A plataforma Currículo Rápido desempenhará seus melhores esforços para manter o site acessível vinte e quatro horas por dia de forma segura e isenta de erros.  O usuário reconhece, no entanto, que a plataforma Currículo Rápido não será responsável pela impossibilidade de acesso ao site devido à falha de comunicação. 
 
 6.2. A plataforma Currículo Rápido não se responsabiliza pela colocação ou recolocação profissional do usuário através deste site. 
 
@@ -78,9 +78,9 @@
 
 # 9. Disposições gerais 
 
-9.1 Os termos dos serviços e o relacionamento entre as partes serão regidos e interpretados de acordo com as Leis da República Federativa do Brasil. O usuário e a plataforma Currículo Rápido concordam expressamente a submeter-se à competência única e exclusiva dos tribunais brasileiros e, em especial, ao Foro da Comarca de Novo Hamburgo, Estado de Rio Grande do Sul, para dirimir quaisquer questões oriundas deste instrumento. 
+9.1 Os termos dos serviços e o relacionamento entre as partes serão regidos e interpretados de acordo com as Leis da República Federativa do Brasil. O usuário e a plataforma Currículo Rápido concordam expressamente em submeter-se à competência única e exclusiva dos tribunais brasileiros e, em especial, ao Porto Velho, Estado de Rondônia, para dirimir quaisquer questões oriundas deste instrumento.
 
-9.2 As partes reconhecem que panes ou inoperância do sistema decorrentes de atos de interferência externa são circunstâncias absolutamente fora do controle das partes, caracterizando-se como caso fortuito, para todos os efeitos legais.
+9.2 As partes reconhecem que panes ou inoperância do sistema decorrentes de atos de interferência externa são circunstâncias absolutamente fora do controle das partes, caracterizando-se como caso fortuito ou força maior, para todos os efeitos legais.
 
  
 
