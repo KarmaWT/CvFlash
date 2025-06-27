@@ -5,78 +5,84 @@ De forma geral, o setor de recursos humanos em uma empresa constitui-se em duas 
 
 A filtragem automatizada por palavras-chave, embora eficiente em agilizar o processo de seleção, pode criar distorções importantes na escolha dos currículos dos candidatos. Isso acontece porque:
 
-- Eliminação de candidatos qualificados: Sistemas automatizados podem descartar currículos que não contenham as palavras-chave exatas, mesmo que o candidato possua as competências desejadas com outras terminologias ou experiências equivalentes.
+Eliminação de candidatos qualificados: Sistemas automatizados podem descartar currículos que não contenham as palavras-chave exatas, mesmo que o candidato possua as competências desejadas com outras terminologias ou experiências equivalentes.
 
-- Favorecimento de palavras e não de competências reais: Candidatos que conhecem o funcionamento dos sistemas podem “otimizar” seus currículos com palavras-chave estratégicas, ainda que não dominem de fato aquelas habilidades — o que leva a uma seleção enviesada.
+Favorecimento de palavras e não de competências reais: Candidatos que conhecem o funcionamento dos sistemas podem “otimizar” seus currículos com palavras-chave estratégicas, ainda que não dominem de fato aquelas habilidades — o que leva a uma seleção enviesada.
 
-- Limitação da diversidade de perfis: A padronização das palavras-chave tende a privilegiar perfis muito semelhantes entre si, reduzindo a diversidade de experiências, formação e até de perspectivas culturais, o que pode ser prejudicial à inovação da empresa.
+Limitação da diversidade de perfis: A padronização das palavras-chave tende a privilegiar perfis muito semelhantes entre si, reduzindo a diversidade de experiências, formação e até de perspectivas culturais, o que pode ser prejudicial à inovação da empresa.
 
-- Desvalorização do contexto: Os algoritmos, muitas vezes, não interpretam o contexto de uma experiência ou habilidade descrita. Por exemplo, um candidato pode ter liderado projetos relevantes, mas não usou o termo “gestão de projetos”, sendo, portanto, excluído.
+Desvalorização do contexto: Os algoritmos, muitas vezes, não interpretam o contexto de uma experiência ou habilidade descrita. Por exemplo, um candidato pode ter liderado projetos relevantes, mas não usou o termo “gestão de projetos”, sendo, portanto, excluído.
 
 Por isso, embora a tecnologia seja uma aliada no RH moderno, é necessário um equilíbrio entre automação e análise humana para garantir justiça e eficiência no recrutamento.
 
-
 ## Problema
-A evolução da tecnologia ao longo da última década impactou significativamente diversas áreas, inclusive o setor de recursos humanos, que, por sua vez, tem se beneficiado com o uso de sistemas de rastreamento de candidatos para facilitar processos de contratação mais ágeis e precisos.
 
+ A evolução da tecnologia ao longo da última década impactou significativamente diversas áreas, inclusive o setor de recursos humanos, que, por sua vez, tem se beneficiado com o uso de sistemas de rastreamento de candidatos para facilitar processos de contratação mais ágeis e precisos.
 
-Segundo o IBGE (Instituto Brasileiro de Geografia e Estatística) - A informação apresentada é consistente com os dados do IBGE. A taxa de desemprego no Brasil, no quarto de 2025, foi de 7,4%, com 8,1 milhões de pessoas desempregadas. Destas, 3,5 milhões desistiram de procurar emprego, o que significa quenão mais contabilizadas como desempregadas, mas como inativas. 
+Segundo o IBGE (Instituto Brasileiro de Geografia e Estatística) - A informação apresentada é consistente com os dados do IBGE. A taxa de desemprego no Brasil, no quarto de 2025, foi de 7,4%, com 8,1 milhões de pessoas desempregadas. Destas, 3,5 milhões desistiram de procurar emprego, o que significa quenão mais contabilizadas como desempregadas, mas como inativas.
 
 Detalhes adicionais:
 
-A taxa de desemprego de 7,4% representa um aumento em relação ao trimestre anterior, mas uma queda em comparação com o mesmo período de 2024.
-A população acelerada no Brasil também sofreu uma queda no trimestre, mas aumentou em comparação com o ano anterior.
-Uma pesquisa do IBGE indica que o aumento da taxa de desemprego no trimestre é um comportamento sazonal, comum no início do ano, devido ao término de contratos temporários.
-No entanto, a taxa de desemprego ainda é considerada baixa, diminuindo um mercado de trabalho aquecido. 
+A taxa de desemprego de 7,4% representa um aumento em relação ao trimestre anterior, mas uma queda em comparação com o mesmo período de 2024. A população acelerada no Brasil também sofreu uma queda no trimestre, mas aumentou em comparação com o ano anterior. Uma pesquisa do IBGE indica que o aumento da taxa de desemprego no trimestre é um comportamento sazonal, comum no início do ano, devido ao término de contratos temporários. No entanto, a taxa de desemprego ainda é considerada baixa, diminuindo um mercado de trabalho aquecido.
 
-Pensando no cenário citado, a criação de um site que facilita a acessibilidade e a leitura de currículos por empresas que utilizam ATS, gera algo realmente útil na atualidade considerando os números analisados, onde aumentaria a chance de pessoas saírem do desemprego assim como as taxas de isenção de currículos por ATS.
+Pensando no cenário citado, a criação de um site que facilita a acessibilidade e a leitura de currículos por empresas que utilizam ATS, gera algo realmente útil na atualidade considerando os números analisados, onde aumentaria a chance de pessoas saírem do desemprego assim como as taxas de isenção de currículos por ATS
 
 ## Objetivos
 
-O projeto tem como objetivo principal ajudar as pessoas que estão em busca de emprego, garantindo que seus currículos sejam lidos e revisados ​​de forma preenchida pelos Sistemas de Rastreamento de Candidatos (ATS), aumentando a probabilidade de seus currículos serem selecionados por recrutadores.
+ O projeto tem como objetivo principal ajudar pessoas que estão procurando emprego, garantindo que seus currículos sejam lidos e revisados de forma apropriada por Sistemas de Rastreamento de Candidatos (ATS), aumentando a probabilidade de seus currículos serem selecionados por recrutadores. 
 
-Objetivos Específicos:
+Objetivos Específicos: 
 
-• Desenvolver um gerador de currículos que forme automaticamente os currículos dos candidatos para serem lidos pelos ATSs.
+ • Desenvolver um gerador de currículos que formate automaticamente os currículos dos candidatos para serem lidos por ATSs. 
 
-• Oferecer orientações e dicas aos candidatos sobre como criar currículos mais eficazes, destacando suas habilidades e experiências de maneira adequada para cada vaga.
+ • Oferecer orientações e dicas aos candidatos sobre como criar currículos mais eficazes, destacando suas habilidades e experiências de maneira adequada para cada vaga. 
 
-• Implementar um sistema de registo de candidaturas que permita aos utilizadores inserirem informações previstas sobre as vagas para as quais se candidataram, incluindo nome da empresa, cargo e estado da candidatura.
+ • Implementar um sistema de registro de candidaturas que permita aos usuários inserirem informações detalhadas sobre as vagas para as quais se candidataram, incluindo nome da empresa, cargo e status da candidatura. 
 
-• Desenvolver uma interface intuitiva e de fácil navegação para que os candidatos possam acessar e utilizar a página de rastreamento de candidaturas sem dificuldades.
+ • Desenvolver uma interface intuitiva e de fácil navegação para que os candidatos possam acessar e utilizar a página de rastreamento de candidaturas sem dificuldades. 
 
-• Garantir a acessibilidade do sistema em diversas plataformas, como telefones, tablets e computadores, permitindo que os usuários o acessem de forma conveniente, independentemente de sua localização ou dos recursos disponíveis.
+ • Garantir a acessibilidade do sistema em diversas plataformas, como telefones, tablets e computadores, permitindo que os usuários o acessem de forma conveniente, independentemente de sua localização ou dos recursos disponíveis.
+ 
 
-## justifique
-????
+## Justificativa
 
-## público-alvo
+ A evolução da tecnologia ao longo da última década impactou significativamente diversas áreas, inclusive o setor de recursos humanos, que, por sua vez, tem se beneficiado com o uso de sistemas de rastreamento de candidatos para facilitar processos de contratação mais ágeis e precisos. 
 
-O público-alvo dos geradores de currículos é diversificado, abrangendo uma ampla gama de perfis profissionais em diferentes etapas de suas carreiras. Este aplicativo da web é direcionado a profissionais que buscam oportunidades de emprego, independentemente de sua faixa etária, gênero ou localização geográfica. Seus potenciais usuários podem ser homens ou mulheres, com idades variando entre 18 e 50 anos, residindo tanto em áreas urbanas quanto rurais.
+ Desde seu surgimento no final dos anos 90, Sistemas de Rastreamento de Candidatos (ATS) dominam o processo de contratação. Em 2023, foi detectado o uso de ATS por 97,4% das empresas da Fortune 500, onde estão listadas as maiores empresas do mundo. Esse número não mudou muito comparado a 2019, onde 98,8% das empresas usavam ATS (Jobscan, 2023). Ainda assim, os candidatos parecem não ter se adaptado bem. Segundo a mentora de carreiras Jaqueline Coelho, através do site de empregos LinkedIn, a conformidade com os ATSs não é mais uma opção, é uma necessidade. 
 
-Essa ferramenta é útil para indivíduos que desejam:
+ Entre os principais motivos pelos quais os candidatos são desclassificados, o site GUPY.io cita não ter um objetivo profissional, cometer erros de gramática, não colocar dados pessoais importantes, não ter um e-mail profissional, adicionar informações pessoais desnecessárias, mentir sobre experiências e formações. Problemas que, com uma estrutura adequada de currículo e estudos adequados sobre a vaga concorrida, poderiam ser facilmente solucionados. 
 
-• Destacar habilidades e experiências relevantes nos currículos.
+ Segundo o IBGE (Instituto Brasileiro de Geografia e Estatística), o índice de desemprego no Brasil no quarto trimestre de 2023 foi de 7,4%, o que representa 8,1 milhões de desempregados no país, sendo que destas 3,5 milhões desistiram de procurar emprego.  
 
-• Acompanhar a evolução das candidaturas para diferentes vagas.
+ Pensando no cenário citado, a criação de um site que facilite a aceitação e leitura de currículos por empresas que usam ATS, gera algo realmente útil na atualidade considerando os números analisados, onde aumentaria a chance de pessoas saírem do desemprego assim como as taxas de aceitação de currículos por ATS. 
 
-• Ajustar e melhorar os currículos para melhorar a acessibilidade dos ATS.
 
-• Personalizar o currículo de acordo com diferentes contextos profissionais.
+## Público-Alvo
 
-• Simplificar o processo de criação de currículos.
+ O público-alvo do gerador de currículos é diversificado, abrangendo uma ampla gama de perfis profissionais em diferentes etapas de suas carreiras. Este aplicativo web é direcionado a profissionais ativamente buscando oportunidades de emprego, independentemente de sua faixa etária, gênero ou localização geográfica. Seus potenciais usuários podem ser homens ou mulheres, com idades variando entre 18 e 50 anos, residindo tanto em áreas urbanas quanto rurais.  
 
-• Adaptar o currículo para profissionais em processo de recolocação ou mudança de carreira.
+Essa ferramenta é útil para indivíduos que desejam: 
 
-• Buscar melhores oportunidades de trabalho.
+ • Destacar habilidades e experiências relevantes nos currículos. 
 
-• Criar currículos que se destaquem em meio a uma ampla gama de perfis profissionais.
+ • Acompanhar a evolução das candidaturas a diferentes vagas. 
 
-Para aqueles em processo de recolocação ou mudança de carreira, bem como aqueles em busca de melhores oportunidades de trabalho, uma plataforma oferece ferramentas para:
+ • Ajustar e melhorar os currículos para melhor aceitação por ATSs. 
 
-• Adaptar o currículo para suas necessidades específicas.
+ • Personalizar o currículo de acordo com diferentes contextos profissionais. 
 
-• Buscar melhores oportunidades de trabalho.
+ • Simplificar o processo de criação de currículos. 
 
-## conclusão
-????
+ • Adaptar o currículo para profissionais em processo de recolocação ou mudança de carreira. 
+
+ • Buscar melhores oportunidades de trabalho. 
+
+ • Criar currículos que se destaquem em meio a uma ampla gama de perfis profissionais. 
+
+Para aqueles em processo de recolocação ou mudança de carreira, bem como aqueles em busca de melhores oportunidades de trabalho, a plataforma oferece ferramentas para: 
+
+ • Adaptar o currículo para suas necessidades específicas. 
+
+ • Buscar melhores oportunidades de trabalho. 
+
+ Essa abordagem multifacetada visa a adaptabilidade da plataforma para diferentes contextos profissionais, oferecendo uma solução abrangente e personalizada para a criação de currículos. O gerador de currículos é especialmente útil para aqueles que não estão familiarizados com ATSs ou desejam simplificar o processo de criação de currículos.
