@@ -12,6 +12,8 @@ O protótipo de alta fidelidade possui uma interface mais avançada e próxima d
 
 ### Tela - iniciar
 Nessa tela encontramos o banner inicial, botões que levam para as telas de criação de currículo, instruções de como fazer um currículo e controle de candidaturas. 
+![Home@3x](https://github.com/user-attachments/assets/a15bd192-aa12-4ab4-a31a-0557d5ad385c)
+
 
 
 ### Tela - Login e SignUp
