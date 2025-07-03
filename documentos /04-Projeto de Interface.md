@@ -12,9 +12,11 @@ O protótipo de alta fidelidade possui uma interface mais avançada e próxima d
 
 ### Tela - Home
 Nessa tela encontramos o banner inicial, botões que levam para as telas de criação de currículo, instruções de como fazer um currículo e controle de candidaturas. 
-![Home Page] ---> <imagem fonte="![Home](https://github.com/user-attachments/assets/87cf997b-5c05-4f35-9aa3-857586fbb50f)">
+![Home Page] ---> <imagem fonte=" ![Home](https://github.com/user-attachments/assets/44a7e3ce-f57c-4836-8bf2-6cea94725e48)
+">
 
 
+![Home](https://github.com/user-attachments/assets/39fe3b2f-a93f-4d41-af1b-ac05016809c3)
 
 ### Tela - Aprenda
 Nesta tela, o usuário encontrará instruções de como fazer um currículo.
