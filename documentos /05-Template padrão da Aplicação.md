@@ -14,19 +14,6 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 
 ### Paleta de cores
 
-<img src="img/PaletaCores.png">
-
-# Barra de navegação
-
-Falta - imagem
-
-# Rodapé
-
-Falta - imagem
-# Template Padrão da Aplicação
-
-### Paleta de cores
-
 <img src="img/![image](https://github.com/user-attachments/assets/6862ffd4-a2f3-4469-8346-757f4de2cc03)
 ">
 
@@ -36,7 +23,15 @@ Falta - imagem
 
 <img src="img/ModeloPadrão.png">
 
+# Barra de navegação
 
+Falta - imagem
+
+# Rodapé
+
+Falta - imagem
+
+# Template Padrão da Aplicação
 O template criado é composto pelos seguintes layouts:
 
 Cabeçalho- Local onde são dispostos elementos fixos de identidade como o nome do site, navegação principal (menu da aplicação) e login; 
