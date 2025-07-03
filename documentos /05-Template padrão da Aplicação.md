@@ -32,6 +32,9 @@ Falta - imagem
 Falta - imagem
 
 # Template Padrão da Aplicação
+
+<img src="img/ModeloPadrão.png">
+
 O template criado é composto pelos seguintes layouts:
 
 Cabeçalho- Local onde são dispostos elementos fixos de identidade como o nome do site, navegação principal (menu da aplicação) e login; 
