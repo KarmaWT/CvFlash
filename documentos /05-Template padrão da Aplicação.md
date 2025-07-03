@@ -29,7 +29,7 @@ Falta - imagem
 
 <img src="img/PaletaCores.png">
 
-<h2>Layout da aplicação no Figma <a href="https://www.figma.com/file/bTyVmoZkGJMpAcQXFYXDMo/Curriculo-f%C3%A1cil?type=design&node-id=0%3A1&mode=design&t=Vpc2YxOZtoh7shmO-1">Aqui</a></h2>
+<h2>Layout da aplicação no Figma 
 
 ### Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
@@ -46,23 +46,4 @@ Rodapé - Contém informações sobre direitos autorais, privacidade e social me
 
 
 ### Layout da tela home
-
-
-<img src="img/Home.jpg">
-
-
-
-### Layout padrão da tela de Login
-
-
-<img src="img/TelaDeLogin.jpg">
-
-
-### ayout padrão da tela de Cadastro
-
-<img src="img/telacadastroPadrao.png">
-
-
-### Layout padrão da tela Home apos cadastro/login
-
-<img src="img/TelaHomePadrao.png">
+<img src="">
