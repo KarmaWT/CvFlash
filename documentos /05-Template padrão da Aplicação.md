@@ -27,7 +27,8 @@ Falta - imagem
 
 ### Paleta de cores
 
-<img src="img/PaletaCores.png">
+<img src="img/![image](https://github.com/user-attachments/assets/6862ffd4-a2f3-4469-8346-757f4de2cc03)
+">
 
 <h2>Layout da aplicação no Figma 
 
