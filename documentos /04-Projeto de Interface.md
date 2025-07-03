@@ -12,15 +12,14 @@ O protótipo de alta fidelidade possui uma interface mais avançada e próxima d
 
 ### Tela - Home
 Nessa tela encontramos o banner inicial, botões que levam para as telas de criação de currículo, instruções de como fazer um currículo e controle de candidaturas. 
-![Home Page] ---> <imagem fonte=" ![Home](https://github.com/user-attachments/assets/44a7e3ce-f57c-4836-8bf2-6cea94725e48)
-">
+![Home Page] ---> <imagem fonte=" ">
 
 
 ![Home](https://github.com/user-attachments/assets/39fe3b2f-a93f-4d41-af1b-ac05016809c3)
 
 ### Tela - Aprenda
 Nesta tela, o usuário encontrará instruções de como fazer um currículo.
-![Aprenda a fazer um currículo] ----> 
+![Aprenda a fazer um currículo] ----> <imagem fonte=" ">
 
 ### Como-fazer-curriculo
 ## 1. Estrutura Básica de um Currículo
@@ -72,8 +71,8 @@ Destaque por que você está interessado na vaga e como suas habilidades se alin
 
 ### Tela - Organize
 Nesta tela, o usuário pode fazer um rastreamento de todas as candidaturas que realizou a diferentes vagas.
-![Suas Candidaturas] ----> 
-![Cadastre sua candidatura] ---> 
+![Suas Candidaturas] ----> <imagem fonte=" ">
+![Cadastre sua candidatura] ---> <imagem fonte=" ">
 
 ### Tela - Crie seu currículo
 Nesse conjunto de telas, o usuário podera crir um currículo, escolher um template e fazer download do mesmo em PDF.
@@ -86,3 +85,4 @@ Nesse conjunto de telas, o usuário podera crir um currículo, escolher um templ
 
 ### Tela - Erro
 Em caso de erro, o usuário será levado a esta página.
+<imagem fonte=" ">
