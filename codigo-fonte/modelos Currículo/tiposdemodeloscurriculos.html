@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Modelos de Currículos</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f9f9f9;
+    }
+    header {
+      background-color: #FFCC00;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 20px auto;
+    }
+    .filtrostabs {
+      display: flex;
+      overflow-x: auto;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 20px;
+    }
+    .filtrostabs a {
+      flex: 0 0 auto;
+      text-decoration: none;
+      color: #333;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 8px 16px;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
+      white-space: nowrap;
+    }
+    .filtrostabs a:hover,
+    .filtrostabs .filtro-selecionado {
+      background: #007bff;
+      color: #fff;
+      border-color: #007bff;
+    }
+    .grid-modelos {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .modelo {
+      flex: 1 1 calc(33% - 20px);
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.3s;
+    }
+    .modelo:hover {
+      transform: scale(1.02);
+    }
+    .modelo img {
+      width: 100%;
+      height: auto;
+    }
+    .modelo-content {
+      padding: 10px;
+    }
+    .modelo-content h4 {
+      margin: 0 0 8px;
+      font-size: 18px;
+    }
+    .modelo-content p {
+      margin: 0;
+      font-size: 14px;
+      color: #555;
+    }
+    @media (max-width: 768px) {
+      .modelo {
+        flex: 1 1 calc(50% - 20px);
+      }
+    }
+    @media (max-width: 480px) {
+      .modelo {
+        flex: 1 1 100%;
+      }
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Modelos de Currículos</h1>
+    <p>Escolha o modelo que melhor se adapta a você!</p>
+  </header>
+
+  <main>
+    <section class="container">
+      <h2>Tipos de Modelos</h2>
+      <div class="filtrostabs">
+        <a class="filtro-selecionado" data-filtro="todos"><i class="fas fa-list"></i> Todos</a>
+        <a data-filtro="classico"><i class="fas fa-file-lines"></i> Clássico</a>
+        <a data-filtro="moderno"><i class="fas fa-laptop-code"></i> Moderno</a>
+        <a data-filtro="criativo"><i class="fas fa-lightbulb"></i> Criativo</a>
+        <a data-filtro="elegante"><i class="fas fa-gem"></i> Elegante</a>
+        <a data-filtro="simples"><i class="fas fa-check"></i> Simples</a>
+        <a data-filtro="intermediario"><i class="fas fa-layer-group"></i> Intermediário</a>
+        <a data-filtro="elaborado"><i class="fas fa-star"></i> Elaborado</a>
+      </div>
+      <div class="grid-modelos">
+        <a href="#" class="modelo" data-categoria="criativo">
+          <img src="https://curriculopro.online/api/imagens/modelos/1D1B0A5E132CFCFD-5B031C8D8D56F1C7-202307312024Jul0.jpeg" alt="Modelo 1">
+          <div class="modelo-content">
+            <h4>Modelo 1</h4>
+            <p>Modelos de currículos criativos, que destacam o seu perfil profissional.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="criativo">
+          <img src="https://curriculopro.online/api/imagens/modelos/B6D310124DE4D623-5C572998F817E948-202307181724Jul0.jpeg" alt="Modelo 2">
+          <div class="modelo-content">
+            <h4>Modelo 2</h4>
+            <p>Modelos de currículos criativos, que destacam o seu perfil profissional.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="moderno">
+          <img src="https://curriculopro.online/api/imagens/modelos/BC44AE60D9653C39-8F156184143DD135-202307311224Jul0.jpeg" alt="Modelo 3">
+          <div class="modelo-content">
+            <h4>Modelo 3</h4>
+            <p>Modelos modernos e personalizados por você.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="moderno">
+          <img src="https://curriculopro.online/api/imagens/modelos/9B1D0E51B9932298-EE212E33A5827377-202307251924Jul0.jpeg" alt="Modelo 4">
+          <div class="modelo-content">
+            <h4>Modelo 4</h4>
+            <p>Modelos modernos e personalizados por você.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="elegante">
+          <img src="https://curriculopro.online/api/imagens/modelos/6A56530C3BFF14BC-D943B342FC3167DE-202307171424Jul0.jpeg" alt="Modelo 5">
+          <div class="modelo-content">
+            <h4>Modelo 5</h4>
+            <p>Modelos elegantes e que causam boa impressão.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="classico">
+          <img src="https://curriculopro.online/api/imagens/modelos/50851024BEE21291-AA2A538D69B72BAD-202310111724Oct0.jpeg" alt="Modelo 6">
+          <div class="modelo-content">
+            <h4>Modelo 6</h4>
+            <p>Modelos clássicos para destacar as suas informações profissionais.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="simples">
+          <img src="https://th.bing.com/th/id/R.b446f1e77d75a84c0a64e84bbaf89d55?rik=94boQJk96AugNQ&pid=ImgRaw&r=0" alt="Modelo Simples" />
+          <div class="modelo-content">
+            <h4>Modelo 7 Simples</h4>
+            <p>Objetivo e direto, focado nas informações essenciais.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="intermediario">
+          <img src="https://www.modelos-de-curriculos.com/wp-content/uploads/2025/06/curriculo-jovem-aprendiz-modelo.jpg" alt="Modelo Intermediário" />
+          <div class="modelo-content">
+            <h4>Modelo 8 Intermediário</h4>
+            <p>Um pouco mais elaborado, com mais detalhes e estilo.</p>
+          </div>
+        </a>
+        <a href="#" class="modelo" data-categoria="elaborado">
+          <img src="https://cdn-images.livecareer.pt/pages/original_lc_pt_2.jpg" alt="Modelo Elaborado" />
+          <div class="modelo-content">
+            <h4>Modelo 9 Elaborado</h4>
+            <p>Visualmente atraente e bem organizado.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 CvFlash. Todos os direitos reservados.</p>
+  </footer>
+
+  <script>
+    const filtros = document.querySelectorAll(".filtrostabs a");
+    const modelos = document.querySelectorAll(".modelo");
+
+    filtros.forEach(filtro => {
+      filtro.addEventListener("click", () => {
+        filtros.forEach(f => f.classList.remove("filtro-selecionado"));
+        filtro.classList.add("filtro-selecionado");
+
+        const categoria = filtro.dataset.filtro;
+
+        modelos.forEach(modelo => {
+          if (categoria === "todos" || modelo.dataset.categoria === categoria) {
+            modelo.style.display = "block";
+          } else {
+            modelo.style.display = "none";
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>
