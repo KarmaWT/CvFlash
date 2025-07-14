@@ -52,7 +52,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             | https://github.com/KarmaWT/CvFlash/tree/main/documentos%20                                     |
 | Projeto de Interface                | Figma                              | https://www.figma.com/design/99Li0fyj29ZdHa8MSE5UFx/Gerador-de-curriculo?node-id=0-1&p=f&t=gNJ1XZmORosaNg62-0                                       |
 | Gerenciamento do Projeto            | GitHub Projects                    |                                        |
-| Hospedagem                          | GitHub Pages                       |                                        |
+| Hospedagem  
+| Trello                                   | Trello                   |    https://trello.com/b/weK96XYg/cvflash                                    |
 
 
 ### Estratégia de Organização de Codificação 
