@@ -37,22 +37,42 @@ Alternativas como Canva, VisualCV e NovoResume possuem recursos similares, mas C
 ![Captura de Tela](docs/screenshot.png)  
 _Gerador com campos dinâmicos e visualização instantânea_
 
-## 🧰 Instalação
 
-### Requisitos
+### 📋 Pré-requisitos
 
-- Node.js v18+
-- npm ou yarn
-- Navegador moderno
+De que coisas você precisa para instalar o software e como instalá-lo?
 
+```
+Dar exemplos
+```
+
+### 🔧 Instalação
+
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+
+Diga como essa etapa será:
+
+```
+Dar exemplos
+```
+
+E repita:
+
+```
+Até finalizar
+```
+
+Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 ### Passos
 
 
 
 ## 💡 Uso
+
 Acesse localhost:3000, preencha os campos e clique em Gerar PDF. Exemplo de entrada:
 
 ## 💬 Apoio
+
 Issues
 
 Email: suporte@cvflash.dev
@@ -70,20 +90,28 @@ Chat: Discord em breve!
 🗃️ Banco de modelos abertos
 
 ## 🤝 Contribuindo
-Contribuições são muito bem-vindas! Consulte CONTRIBUTING.md para diretrizes. Rodar testes:
+Mencione as ferramentas que você usou para criar seu projeto
 
+### 🛠️ Ferramentas principais utilizadas
+
+- **React.js** — Para construir uma interface interativa e responsiva
+- **Tailwind CSS** — Para estilização rápida e moderna
+- **Vite.js** — Bundler leve e rápido para desenvolvimento
+- **TypeScript** — Tipagem estática para melhor manutenção do código
+- **PDF.js** — Geração e renderização de currículos em PDF
+  
 ## 👥 Autores e agradecimentos
-Gustavo [Sobrenome] — Criador do projeto
 
-Agradecimentos à comunidade open source, usuários beta e colegas desenvolvedores 
+* Albert Jossue Ojeda Gomez - 
+* Gustavo Izaias Furtado - Criador do projeto e Documentação
+* Matheus Pantoja de Morais - 
+  
 
 ## 📃 Licença
+
 MIT. Veja LICENSE.md para detalhes.
 
 ## 📌 Status do projeto
+
 🚧 Em desenvolvimento ativo — contribuidores são bem-vindos!
 
-
----
-
-Se quiser, posso gerar uma versão com outro tom — mais informal, técnico, ou até estilo startup pitch. Também posso te ajudar com ideias de logotipo, cores ou layout da landing page. Só dizer! 🎯💻
