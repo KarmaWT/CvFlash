@@ -102,10 +102,13 @@ Mencione as ferramentas que você usou para criar seu projeto
   
 ## 👥 Autores e agradecimentos
 
-* Albert Jossue Ojeda Gomez - 
-* Gustavo Izaias Furtado - Criador do projeto e Documentação
-* Matheus Pantoja de Morais - 
+
+
+* Albert Jossue Ojeda Gomez - Desenvolvedor BackEnd e responsável pelo marketing estratégico
+* Gustavo Izaias Furtado - Criador do projeto, responsável pela documentação e prototipação visual no Figma
+* Matheus Pantoja de Morais - Desenvolvedor FrontEnd, Design no Figma organização e atuação em marketing digital
   
+Agradecimentos especiais à comunidade que apoiou com feedbacks, sugestões e testes iniciais. Vocês ajudaram a moldar o Cvflash desde seus primeiros passos. 🫂✨
 
 ## 📃 Licença
 
