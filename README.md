@@ -18,9 +18,6 @@
 
 Prof. PhD. Kaio Alexandre da Silva
 
-# ⚡ Cvflash
-
-**Cvflash** é uma ferramenta online que permite aos usuários criar currículos profissionais com rapidez e personalização. Ideal para quem busca uma apresentação profissional sem complicações.
 
 ## 📖 Descrição
 
