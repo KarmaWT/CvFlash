@@ -14,10 +14,11 @@ A metodologia utilizada é a Scrum, que se define por um conjunto de boas práti
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 
-- Scrum Master: 
-- Product Owner:
-- Equipe de Desenvolvimento:
-- Equipe de Design: 
+- Scrum Master: Gustavo Izaias;
+- Product Owner: Albert;
+- Equipe de Desenvolvimento: Matheus;
+- Equipe de Design: Gustavo izaias e Matheus;
+  
 ### Processo
 
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
